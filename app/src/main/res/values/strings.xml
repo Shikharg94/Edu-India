@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">EduIndia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    
+    <string-array name="student_names">
+
+        <item>Aman</item>
+        <item>Baman</item>
+        <item>Chaman</item>
+        <item>Daman</item>
+        <item>Manan</item>
+        <item>Raman</item>
+        <item>Aman</item>
+
+
+    </string-array>
+
+
+    <string-array name="student_subjects">
+
+        <item>Maths</item>
+        <item>Physics</item>
+        <item>Chem</item>
+        <item>English</item>
+        <item>HTML</item>
+        <item>Java</item>
+        <item>Ruby</item>
+
+
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
